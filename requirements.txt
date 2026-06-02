@@ -1,1 +1,7 @@
-requisitos
+# Para este proyecto se requieren las siguientes librerias
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+joblib
